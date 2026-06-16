@@ -1,4 +1,9 @@
 # Malaria Prediction Using Hematological Indicators
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-green)
+![Deployment](https://img.shields.io/badge/HuggingFace-Deployed-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Healthcare AI](https://img.shields.io/badge/Domain-Healthcare-red)
 
 Machine Learning project for predicting malaria positivity using routinely collected hematological blood parameters.
 

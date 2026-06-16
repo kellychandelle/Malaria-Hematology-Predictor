@@ -184,7 +184,7 @@ SHAP explains how each predictor contributes to malaria predictions at both glob
 
 ## SHAP Summary Plot
 
-![SHAP Summary](assets/shap_summary.png)
+![SHAP Summary](assets/SHAP Summary.png)
 
 ### SHAP Findings
 

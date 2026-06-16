@@ -14,6 +14,20 @@ The study compares multiple classification algorithms, evaluates predictive perf
 
 ---
 
+# Dataset
+
+This project was developed using malaria-related data and hematological indicators.
+
+Dataset source:
+
+Cases of Malaria incidence at the country level
+
+:contentReference[oaicite:1]{index=1}
+
+Additional preprocessing, cleaning, feature engineering, and variable selection were performed for machine learning analysis.
+
+Please refer to the original source for dataset documentation and licensing information.
+
 # Workflow
 
 The project includes:

@@ -16,17 +16,17 @@ The study compares multiple classification algorithms, evaluates predictive perf
 
 # Dataset
 
-This project was developed using malaria-related data and hematological indicators.
+The dataset used in this project was obtained from the Mendeley Data repository.
 
-Dataset source:
-
+**Source:**  
 Cases of Malaria incidence at the country level
 
-:contentReference[oaicite:1]{index=1}
+Dataset Access:  
+https://data.mendeley.com/datasets/t8n3z7s89h/4
 
-Additional preprocessing, cleaning, feature engineering, and variable selection were performed for machine learning analysis.
+Additional preprocessing, cleaning, feature engineering, and feature selection were performed before machine learning modeling.
 
-Please refer to the original source for dataset documentation and licensing information.
+Please refer to the original dataset source for documentation and licensing information.
 
 # Workflow
 
@@ -232,7 +232,7 @@ The final application was deployed as an interactive web application using:
 
 https://huggingface.co/spaces/KellyChandelle/Malaria-Hematology-Predictor
 
-Users can input hematological measurements and obtain malaria prediction results.
+(!You can input hematological measurements and obtain malaria prediction results.)
 
 ---
 

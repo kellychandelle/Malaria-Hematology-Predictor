@@ -215,6 +215,12 @@ The most influential predictors were:
 4. Neutrophils
 5. MCHC (g/dl)
 
+# Application Preview
+
+Below is a preview of the deployed application.
+
+![Application Demo](assets/app_demo.png)
+
 ### Interpretation
 
 - Lower Platelet Count values increased predicted malaria risk.
